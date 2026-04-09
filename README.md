@@ -4,7 +4,6 @@
 音檔轉MIDI檔：
 
 > [!NOTE]
-
 > Basic pitch套件只能用舊版python 3.10－3.11 
 
 虛擬環境退出：deactivate
