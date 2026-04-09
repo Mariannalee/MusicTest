@@ -1,4 +1,9 @@
 ### MusicTest
+
+<img width="1858" height="956" alt="image" src="https://github.com/user-attachments/assets/830284de-27ed-41b5-97f7-fa7c345ad24b" />
+
+
+
 ##  需安裝的套件(適用Mac)：
 
 > [!NOTE]
