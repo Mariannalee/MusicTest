@@ -42,7 +42,10 @@
 
 > [!IMPORTANT]
 >TensorFlow版本不能太新，要2.15以下
+
+
     1. 移除目前太新版的 TensorFlow：pip uninstall -y tensorflow tensorflow-macos tensorflow-metal
+    
     2. 安裝與模型相容的舊版本 (2.15.0)：pip install tensorflow-macos==2.15.0
 
 > [!TIP]
