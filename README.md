@@ -1,9 +1,17 @@
 ### MusicTest
 ##  需安裝的套件(適用Mac)：
 
+> [!NOTE]
+> MusicMIDI.py是音檔轉MIDI檔的程式碼
+> TonnzeTest.py是Midi檔轉tonnze之後讀取要用的json檔
+> fpxt5-2jzf8.wav可作為音樂測試檔
+> MusicMIDI.py執行完會產出output_midi的檔案夾，裡面有excel檔和.mid檔，選.mid檔到TonnzeTest.py分析
+> TonnzeTest.py檔跑完會產生onnze_data.json
+
+
 音檔轉MIDI檔：
 
-> [!NOTE]
+> [!TIP]
 > Basic pitch套件只能用舊版python 3.10－3.11 
 
          虛擬環境退出：deactivate
@@ -34,7 +42,7 @@
     1. 移除目前太新版的 TensorFlow：pip uninstall -y tensorflow tensorflow-macos tensorflow-metal
     2. 安裝與模型相容的舊版本 (2.15.0)：pip install tensorflow-macos==2.15.0
 
-> [!NOTE]
+> [!TIP]
 > 連接Tonnze：
 
 <blockquote>安裝解析庫：
