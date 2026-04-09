@@ -1,6 +1,7 @@
 ### MusicTest
 
-<img width="1858" height="956" alt="image" src="https://github.com/user-attachments/assets/830284de-27ed-41b5-97f7-fa7c345ad24b" />
+<img width="1824" height="886" alt="image" src="https://github.com/user-attachments/assets/405f859e-3b59-4a00-8b3c-bec0ef4f6bef" />
+
 
 
 
