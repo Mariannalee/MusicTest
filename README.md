@@ -1,10 +1,11 @@
 ### MusicTest
 ##  需安裝的套件(適用Mac)：
 
-> [!NOTE]
-> 音檔轉MIDI檔：
+音檔轉MIDI檔：
 
-Basic pitch套件只能用舊版python 3.10－3.11 
+> [!NOTE]
+
+> Basic pitch套件只能用舊版python 3.10－3.11 
 
 虛擬環境退出：deactivate
 
