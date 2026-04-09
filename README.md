@@ -20,7 +20,8 @@
 
          安裝 TensorFlow：pip install tensorflow-macos
 
-         在 Mac 上，讓 Basic Pitch 運作最快的方法是安裝 TensorFlow，因為 Basic Pitch 預設是用 TensorFlow 訓練的（TensorFlow是開源機器學習框架）
+         > [!TIP]
+         > 在 Mac 上，讓 Basic Pitch 運作最快的方法是安裝 TensorFlow，因為 Basic Pitch 預設是用 TensorFlow 訓練的（TensorFlow是開源機器學習框架）
 
 > [!IMPORTANT]
 > 要command + shift + P切換 Python: Select Interpreter，然後選擇路徑包含 musicMIDI 的那個 Python 3.11。
