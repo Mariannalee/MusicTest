@@ -2,7 +2,7 @@
 ##  需安裝的套件(適用Mac)：
 
 > [!NOTE]
-> 
+> 檔案指示
          MusicMIDI.py是音檔轉MIDI檔的程式碼
          
          TonnzeTest.py是Midi檔轉tonnze之後讀取要用的json檔
