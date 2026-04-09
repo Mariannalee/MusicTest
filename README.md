@@ -36,4 +36,5 @@
 > [!NOTE]
 > 連接Tonnze：
 
-安裝解析庫：pip install pretty-midi
+         安裝解析庫：
+         pip install pretty-midi
