@@ -2,11 +2,14 @@
 ##  需安裝的套件(適用Mac)：
 
 > [!NOTE]
-> MusicMIDI.py是音檔轉MIDI檔的程式碼
-> TonnzeTest.py是Midi檔轉tonnze之後讀取要用的json檔
-> fpxt5-2jzf8.wav可作為音樂測試檔
-> MusicMIDI.py執行完會產出output_midi的檔案夾，裡面有excel檔和.mid檔，選.mid檔到TonnzeTest.py分析
-> TonnzeTest.py檔跑完會產生onnze_data.json
+> 
+         MusicMIDI.py是音檔轉MIDI檔的程式碼
+         
+         TonnzeTest.py是Midi檔轉tonnze之後讀取要用的json檔
+         
+         fpxt5-2jzf8.wav可作為音樂測試檔MusicMIDI.py執行完會產出output_midi的檔案夾，裡面有excel檔和.mid檔，選.mid檔到TonnzeTest.py分析
+         
+         TonnzeTest.py檔跑完會產生onnze_data.json
 
 
 音檔轉MIDI檔：
